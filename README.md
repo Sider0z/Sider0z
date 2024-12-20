@@ -1,4 +1,4 @@
-<h2 align="left">About me:</h2>
+<h2 align="left">Hello, I'm Leonardo Uchoa, a brazilian java and android developer!:</h2>
 
 ###
 
