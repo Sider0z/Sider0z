@@ -1,8 +1,8 @@
-<h2 align="left">Hello, I'm Leonardo Uchoa, a brazilian java and android developer!:</h2>
+<h2 align="left">Hello everyone 👾, I'm Leonardo Uchoa, a brazilian java and android developer!:</h2>
 
 ###
 
-<p align="left">- Computer science stundent;<br>- Java dev;<br>- C dev;</p>
+<p align="left">- 🗃 Computer science stundent;<br>- 💻 Native Android Developer (Kotlin/Java);<br>- 💻 Backend developer (Java);<br>- 💻 Game dev (Unity/Android Studio)</p>
 
 ###
 
